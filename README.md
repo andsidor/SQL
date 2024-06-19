@@ -1,6 +1,6 @@
 # SQL notes
 
-Kolejność wykonywania kodu SQL:
+Kolejność wykonywania instrukcji SELECT:
 
 1. FROM / JOIN  - wskazanie źródła danych (Klauzura FROM, JOIN(łączenie tabel) oraz podzapytania
 2. WHERE - filtrowanie rekordów
