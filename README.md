@@ -14,6 +14,7 @@ Kolejność wykonywania instrukcji SELECT:
 
 
 
+![image](https://github.com/user-attachments/assets/818da41b-9849-48cb-ae96-66f163a2886a)
 
 
 
